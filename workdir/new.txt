@@ -1,1 +1,2 @@
 This is new.text file created in feature1 branch.
+iThis is upadted from develop branch
