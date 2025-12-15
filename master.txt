@@ -1,1 +1,2 @@
 This is master.txt file in master branch
+Updated the master.txt file from private branch.
